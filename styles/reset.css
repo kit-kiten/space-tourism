@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    scroll-behavior: smooth;
+    color: inherit;
+    list-style: none;
+}
+
+button {
+    background-color: transparent;
+    cursor: pointer;
+    font-family: inherit;
+}
